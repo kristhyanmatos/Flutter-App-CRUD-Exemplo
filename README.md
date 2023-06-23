@@ -5,6 +5,7 @@ App exemplar de CRUD utilizando ferramentas de mercado proposto com uma abordage
  - Criptografia de dados
  - Conexão com o banco de dados
  - Validação de formulário
+ - Tratamento de erros
  - Interface limpa, fluida e intuitiva
 
 #### Arquitetura
