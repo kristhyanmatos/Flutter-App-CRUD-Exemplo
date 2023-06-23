@@ -1,0 +1,40 @@
+name: ps_davos_tech
+description: CRUD Exemplo
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.1 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  flutter_modular: ^5.0.3
+  flutter_triple: ^2.0.1
+  dartz: ^0.10.1
+  firebase_core: ^2.14.0
+  cloud_firestore: ^4.8.1
+  brasil_fields: ^1.13.1
+  flutter_svg: ^2.0.7
+  asuka: ^2.1.0
+  flutter_slidable: ^3.0.0
+  validadores: ^1.0.5
+  crypto: ^3.0.3
+  flutter_dotenv: ^5.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+  triple_test: ^2.0.0
+  modular_test: ^2.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/vazio.svg
+    - .env

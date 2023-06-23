@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "795183212817",
+    "project_id": "ps-davos-tech",
+    "storage_bucket": "ps-davos-tech.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795183212817:android:1c0b02a3dd72c56ad604b0",
+        "android_client_info": {
+          "package_name": "com.kristhyan.ps.davos.tech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "795183212817-f33n733elcse9v7q06f77ogaqsetejg1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPSdAmiD9tWT-dyjUBFDqmZzltX5cwM_M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "795183212817-f33n733elcse9v7q06f77ogaqsetejg1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "795183212817-r0uip64aof015jcij0j6d90ptg7q8ihf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kristhyan.ps.davos.tech"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
